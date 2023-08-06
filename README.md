@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 我爱熊猫滚滚
 - 👀 I’m interested in 编程
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning 编程
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
